@@ -1,0 +1,1 @@
+{"version":3,"file":"StopWatch.d.ts","sourceRoot":"","sources":["../../../src/components/StopWatch/StopWatch.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAsC,MAAM,OAAO,CAAC;AAE3D,QAAA,MAAM,SAAS,GAAG,sBAAkB;IAAC,SAAS,CAAC,EAAE,MAAM,CAAC;IACtD,KAAK,CAAC,EAAE,KAAK,CAAC,aAAa,CAAC;CAAC,sBAsE9B,CAAC;AAEF,eAAe,SAAS,CAAC"}

@@ -1,0 +1,24 @@
+# Exclude test files, examples, and configuration files
+node_modules/
+npm-debug.log
+*.log
+*.md
+*.json
+
+# Exclude build artifacts, source maps, and IDE specific files
+/dist/
+/build/
+/coverage/
+/.vscode/
+/.idea/
+/*.swp
+
+# Exclude test directories and files
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Exclude package manager lock files (optional)
+package-lock.json
+yarn.lock

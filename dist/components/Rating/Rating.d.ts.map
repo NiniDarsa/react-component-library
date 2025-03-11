@@ -1,0 +1,1 @@
+{"version":3,"file":"Rating.d.ts","sourceRoot":"","sources":["../../../src/components/Rating/Rating.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAmB,MAAM,OAAO,CAAC;AAIxC,MAAM,MAAM,WAAW,GAAE;IACvB,SAAS,EAAE,MAAM,CAAC;IAClB,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,KAAK,CAAC,EAAE,KAAK,CAAC,aAAa,CAAC;CAC7B,CAAA;AAED,QAAA,MAAM,MAAM,GAAI,iCAA8B,WAAW,sBAyBxD,CAAC;AAEF,eAAe,MAAM,CAAC"}
