@@ -13,6 +13,11 @@
   "author": "",
   "license": "MIT",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NiniDarsa/react-component-library"
+  },
+  "homepage":"https://github.com/NiniDarsa/react-component-library",
   "dependencies": {
     "@storybook/addon-links": "^8.6.3",
     "react": "^19.0.0",
