@@ -15,7 +15,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NiniDarsa/react-component-library"
+    "url": "https://github.com/NiniDarsa/react-component-library.git"
   },
   "homepage":"https://github.com/NiniDarsa/react-component-library",
   "dependencies": {
