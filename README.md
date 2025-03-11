@@ -14,11 +14,11 @@ A modern and flexible React component library built with **TypeScript**, **Story
 To install the library via npm, run:
 
 ```bash
-npm install react-ui-elements
+npm install react-ui-elements-drs
 ```
 
 ```bash
-yarn add react-ui-elements
+yarn add react-ui-elements-drs
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ First, import the component(s) you want to use and then include them in your JSX
 
 ```tsx
 import React from "react";
-import { Button } from "react-ui-elements";
+import { Button } from "react-ui-elements-drs";
 
 const App = () => {
   return (
