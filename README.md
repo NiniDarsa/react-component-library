@@ -17,6 +17,8 @@ To install the library via npm, run:
 npm install react-ui-elements-drs
 ```
 
+or
+
 ```bash
 yarn add react-ui-elements-drs
 ```
