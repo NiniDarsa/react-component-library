@@ -7,6 +7,11 @@ npm-debug.log
 
 #Exclyde storybook
 .storybook/
+#Exclude src
+src/
+#
+rollup.config.js
+
 
 # Exclude build artifacts, source maps, and IDE specific files
 /dist/
