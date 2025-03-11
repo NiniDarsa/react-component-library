@@ -75,6 +75,7 @@ const DropdownList = styled.ul`
   list-style: none;
   max-height: 150px;
   overflow-y: auto;
+  color: black;
 `;
 
 const DropdownItem = styled.li`
