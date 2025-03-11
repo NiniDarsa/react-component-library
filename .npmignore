@@ -5,6 +5,9 @@ npm-debug.log
 *.md
 *.json
 
+#Exclyde storybook
+storybook/
+
 # Exclude build artifacts, source maps, and IDE specific files
 /dist/
 /build/
