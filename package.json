@@ -1,5 +1,5 @@
 {
-  "name": "react-component-collection-ndrs",
+  "name": "react-ui-elements",
   "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
