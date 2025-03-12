@@ -15,7 +15,6 @@ rollup.config.js
 dist/index.d.ts.map
 
 # Exclude build artifacts, source maps, and IDE specific files
-/dist/
 /build/
 /coverage/
 /.vscode/
