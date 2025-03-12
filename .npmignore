@@ -12,7 +12,7 @@ src/
 #
 rollup.config.js
 # Exclude TypeScript declaration source maps
-*.d.ts.map
+dist/index.d.ts.map
 
 # Exclude build artifacts, source maps, and IDE specific files
 /dist/
